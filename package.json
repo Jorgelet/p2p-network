@@ -1,0 +1,13 @@
+{
+  "name": "p2p-network",
+  "version": "1.0.0",
+  "description": "A simple p2p network for learning purposes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["p2p", "peer-to-peer", "file sharing", "network"],
+  "author": "Jorge del Campo",
+  "license": "ISC"
+}
